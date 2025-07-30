@@ -43,23 +43,14 @@ This algorithm eliminates those dependencies by using only the **visual appearan
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x** – Core programming language
-- **OpenCV** – Video/image capture, preprocessing, and visualization
-- **NumPy** – Fast array processing for pixel operations
-- **PyTorch / TensorFlow** – Deep learning frameworks used for training and inference
-- **Pandas & OpenPyXL** – To record results in XLSX reports (optional)
-- **Matplotlib / Seaborn** – For plotting model performance and visual debugging
-
-*Note:* You can modify the code to use GPU acceleration or integrate it with industrial control systems using MQTT, Modbus, or OPC UA.
+- **Python 3.x** 
+- **OpenCV** 
+- **NumPy** 
+- **PyTorch** 
+- **Pandas**
+- **Matplotlib**
 
 ---
-
-## ▶️ How to Use
-
-1. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
 
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/e3602413-7e93-40ab-bcc2-42c2ec795a92" />
