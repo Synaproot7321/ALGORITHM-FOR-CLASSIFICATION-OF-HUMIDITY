@@ -5,7 +5,7 @@
 </p>
 
 <p align="justify">
-  This project presents an AI-powered solution to estimate the **mass humidity of mineral concentrate** transported via conveyor belts. The algorithm utilizes visual data from a conventional camera to predict humidity levels without physical sensors or manual sampling. This approach is ideal for mining and processing plants seeking to optimize productivity, reduce costs, and minimize equipment wear.
+  This project presents an AI-powered solution to estimate the <strong>mass humidity of mineral concentrate</strong> transported via conveyor belts. The algorithm utilizes visual data from a conventional camera to predict humidity levels without physical sensors or manual sampling. This approach is ideal for mining and processing plants seeking to optimize productivity, reduce costs, and minimize equipment wear.
 </p>
 
 ---
