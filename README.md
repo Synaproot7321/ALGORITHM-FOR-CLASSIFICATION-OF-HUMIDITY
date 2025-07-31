@@ -1,8 +1,12 @@
 # 💧 ALGORITHM-FOR-CLASSIFICATION-OF-HUMIDITY
 
-*NOTE: During my experience in the mining sector, I participated in the development of a visual inspection system using machine vision to estimate the mass humidity of mineral concentrate . Out of respect for confidentiality, no images or technical details of the actual system are included. The documentation presented here is a representative simulation developed by me for demonstration purposes.*
+<p align="justify">
+  <em>NOTE: During my experience in the mining sector, I participated in the development of a visual inspection system using machine vision to estimate the mass humidity of mineral concentrate . Out of respect for confidetiality, no images or technical details of the actual system are included. The documentation presented here is a representative simulation developed by me for demonstration purposes.</em>
+</p>
 
-This project presents an AI-powered solution to estimate the **mass humidity of mineral concentrate** transported via conveyor belts. The algorithm utilizes visual data from a conventional camera to predict humidity levels without physical sensors or manual sampling. This approach is ideal for mining and processing plants seeking to optimize productivity, reduce costs, and minimize equipment wear.
+<p align="justify">
+  This project presents an AI-powered solution to estimate the **mass humidity of mineral concentrate** transported via conveyor belts. The algorithm utilizes visual data from a conventional camera to predict humidity levels without physical sensors or manual sampling. This approach is ideal for mining and processing plants seeking to optimize productivity, reduce costs, and minimize equipment wear.
+</p>
 
 ---
 
